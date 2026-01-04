@@ -1,4 +1,4 @@
-🎥 My YouTube Bookmarks – Chrome Extension
+## 🎥 My YouTube Bookmarks – Chrome Extension
 
 
 Never lose your favorite YouTube moments again.
